@@ -1,4 +1,6 @@
 1. Post
-   <img width="1920" height="1200" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/5b3979fd-c26d-4559-a9b4-da5c6e292d30" />
+   <img width="1637" height="874" alt="post" src="https://github.com/user-attachments/assets/7d649430-c54c-4c99-9058-a464c1ed59dc" />
+
 2. Get
-   <img width="1920" height="1200" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/a7bea137-c594-4a1e-9b8d-81bd2f5b2801" />
+   <img width="1742" height="880" alt="get" src="https://github.com/user-attachments/assets/0c86b091-6172-4432-829d-a3569913f76b" />
+
