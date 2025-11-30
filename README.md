@@ -9,6 +9,9 @@
 
  4. Put
     <img width="1660" height="810" alt="put" src="https://github.com/user-attachments/assets/38e0f208-6030-436a-87d2-fbe534ddbfe4" />
+    
+5. Delete
+   <img width="1488" height="784" alt="delete" src="https://github.com/user-attachments/assets/98f9822b-7968-4d2b-a6ea-fbcce64a5484" />
 
        
 
